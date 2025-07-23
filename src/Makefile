@@ -168,6 +168,188 @@ ex0201/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0201.dir/build.make CMakeFiles/ex0201.dir/build
 .PHONY : ex0201/fast
 
+#=============================================================================
+# Target rules for targets named ex0202
+
+# Build rule for target.
+ex0202: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0202
+.PHONY : ex0202
+
+# fast build rule for target.
+ex0202/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0202.dir/build.make CMakeFiles/ex0202.dir/build
+.PHONY : ex0202/fast
+
+#=============================================================================
+# Target rules for targets named ex0203
+
+# Build rule for target.
+ex0203: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0203
+.PHONY : ex0203
+
+# fast build rule for target.
+ex0203/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0203.dir/build.make CMakeFiles/ex0203.dir/build
+.PHONY : ex0203/fast
+
+#=============================================================================
+# Target rules for targets named ex0301
+
+# Build rule for target.
+ex0301: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0301
+.PHONY : ex0301
+
+# fast build rule for target.
+ex0301/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0301.dir/build.make CMakeFiles/ex0301.dir/build
+.PHONY : ex0301/fast
+
+#=============================================================================
+# Target rules for targets named ex0302
+
+# Build rule for target.
+ex0302: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0302
+.PHONY : ex0302
+
+# fast build rule for target.
+ex0302/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0302.dir/build.make CMakeFiles/ex0302.dir/build
+.PHONY : ex0302/fast
+
+#=============================================================================
+# Target rules for targets named ex0401
+
+# Build rule for target.
+ex0401: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0401
+.PHONY : ex0401
+
+# fast build rule for target.
+ex0401/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0401.dir/build.make CMakeFiles/ex0401.dir/build
+.PHONY : ex0401/fast
+
+#=============================================================================
+# Target rules for targets named ex0402
+
+# Build rule for target.
+ex0402: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0402
+.PHONY : ex0402
+
+# fast build rule for target.
+ex0402/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0402.dir/build.make CMakeFiles/ex0402.dir/build
+.PHONY : ex0402/fast
+
+#=============================================================================
+# Target rules for targets named ex0501
+
+# Build rule for target.
+ex0501: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0501
+.PHONY : ex0501
+
+# fast build rule for target.
+ex0501/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0501.dir/build.make CMakeFiles/ex0501.dir/build
+.PHONY : ex0501/fast
+
+#=============================================================================
+# Target rules for targets named ex0502
+
+# Build rule for target.
+ex0502: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0502
+.PHONY : ex0502
+
+# fast build rule for target.
+ex0502/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0502.dir/build.make CMakeFiles/ex0502.dir/build
+.PHONY : ex0502/fast
+
+#=============================================================================
+# Target rules for targets named ex0601
+
+# Build rule for target.
+ex0601: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0601
+.PHONY : ex0601
+
+# fast build rule for target.
+ex0601/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0601.dir/build.make CMakeFiles/ex0601.dir/build
+.PHONY : ex0601/fast
+
+#=============================================================================
+# Target rules for targets named ex0602
+
+# Build rule for target.
+ex0602: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0602
+.PHONY : ex0602
+
+# fast build rule for target.
+ex0602/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0602.dir/build.make CMakeFiles/ex0602.dir/build
+.PHONY : ex0602/fast
+
+#=============================================================================
+# Target rules for targets named ex0603
+
+# Build rule for target.
+ex0603: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex0603
+.PHONY : ex0603
+
+# fast build rule for target.
+ex0603/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0603.dir/build.make CMakeFiles/ex0603.dir/build
+.PHONY : ex0603/fast
+
+#=============================================================================
+# Target rules for targets named ex1001
+
+# Build rule for target.
+ex1001: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex1001
+.PHONY : ex1001
+
+# fast build rule for target.
+ex1001/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1001.dir/build.make CMakeFiles/ex1001.dir/build
+.PHONY : ex1001/fast
+
+#=============================================================================
+# Target rules for targets named ex1002
+
+# Build rule for target.
+ex1002: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 ex1002
+.PHONY : ex1002
+
+# fast build rule for target.
+ex1002/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1002.dir/build.make CMakeFiles/ex1002.dir/build
+.PHONY : ex1002/fast
+
+#=============================================================================
+# Target rules for targets named practice
+
+# Build rule for target.
+practice: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 practice
+.PHONY : practice
+
+# fast build rule for target.
+practice/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/build
+.PHONY : practice/fast
+
 ex0101.o: ex0101.cpp.o
 .PHONY : ex0101.o
 
@@ -240,6 +422,318 @@ ex0201.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0201.dir/build.make CMakeFiles/ex0201.dir/ex0201.cpp.s
 .PHONY : ex0201.cpp.s
 
+ex0202.o: ex0202.cpp.o
+.PHONY : ex0202.o
+
+# target to build an object file
+ex0202.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0202.dir/build.make CMakeFiles/ex0202.dir/ex0202.cpp.o
+.PHONY : ex0202.cpp.o
+
+ex0202.i: ex0202.cpp.i
+.PHONY : ex0202.i
+
+# target to preprocess a source file
+ex0202.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0202.dir/build.make CMakeFiles/ex0202.dir/ex0202.cpp.i
+.PHONY : ex0202.cpp.i
+
+ex0202.s: ex0202.cpp.s
+.PHONY : ex0202.s
+
+# target to generate assembly for a file
+ex0202.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0202.dir/build.make CMakeFiles/ex0202.dir/ex0202.cpp.s
+.PHONY : ex0202.cpp.s
+
+ex0203.o: ex0203.cpp.o
+.PHONY : ex0203.o
+
+# target to build an object file
+ex0203.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0203.dir/build.make CMakeFiles/ex0203.dir/ex0203.cpp.o
+.PHONY : ex0203.cpp.o
+
+ex0203.i: ex0203.cpp.i
+.PHONY : ex0203.i
+
+# target to preprocess a source file
+ex0203.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0203.dir/build.make CMakeFiles/ex0203.dir/ex0203.cpp.i
+.PHONY : ex0203.cpp.i
+
+ex0203.s: ex0203.cpp.s
+.PHONY : ex0203.s
+
+# target to generate assembly for a file
+ex0203.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0203.dir/build.make CMakeFiles/ex0203.dir/ex0203.cpp.s
+.PHONY : ex0203.cpp.s
+
+ex0301.o: ex0301.cpp.o
+.PHONY : ex0301.o
+
+# target to build an object file
+ex0301.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0301.dir/build.make CMakeFiles/ex0301.dir/ex0301.cpp.o
+.PHONY : ex0301.cpp.o
+
+ex0301.i: ex0301.cpp.i
+.PHONY : ex0301.i
+
+# target to preprocess a source file
+ex0301.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0301.dir/build.make CMakeFiles/ex0301.dir/ex0301.cpp.i
+.PHONY : ex0301.cpp.i
+
+ex0301.s: ex0301.cpp.s
+.PHONY : ex0301.s
+
+# target to generate assembly for a file
+ex0301.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0301.dir/build.make CMakeFiles/ex0301.dir/ex0301.cpp.s
+.PHONY : ex0301.cpp.s
+
+ex0302.o: ex0302.cpp.o
+.PHONY : ex0302.o
+
+# target to build an object file
+ex0302.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0302.dir/build.make CMakeFiles/ex0302.dir/ex0302.cpp.o
+.PHONY : ex0302.cpp.o
+
+ex0302.i: ex0302.cpp.i
+.PHONY : ex0302.i
+
+# target to preprocess a source file
+ex0302.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0302.dir/build.make CMakeFiles/ex0302.dir/ex0302.cpp.i
+.PHONY : ex0302.cpp.i
+
+ex0302.s: ex0302.cpp.s
+.PHONY : ex0302.s
+
+# target to generate assembly for a file
+ex0302.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0302.dir/build.make CMakeFiles/ex0302.dir/ex0302.cpp.s
+.PHONY : ex0302.cpp.s
+
+ex0401.o: ex0401.cpp.o
+.PHONY : ex0401.o
+
+# target to build an object file
+ex0401.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0401.dir/build.make CMakeFiles/ex0401.dir/ex0401.cpp.o
+.PHONY : ex0401.cpp.o
+
+ex0401.i: ex0401.cpp.i
+.PHONY : ex0401.i
+
+# target to preprocess a source file
+ex0401.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0401.dir/build.make CMakeFiles/ex0401.dir/ex0401.cpp.i
+.PHONY : ex0401.cpp.i
+
+ex0401.s: ex0401.cpp.s
+.PHONY : ex0401.s
+
+# target to generate assembly for a file
+ex0401.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0401.dir/build.make CMakeFiles/ex0401.dir/ex0401.cpp.s
+.PHONY : ex0401.cpp.s
+
+ex0402.o: ex0402.cpp.o
+.PHONY : ex0402.o
+
+# target to build an object file
+ex0402.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0402.dir/build.make CMakeFiles/ex0402.dir/ex0402.cpp.o
+.PHONY : ex0402.cpp.o
+
+ex0402.i: ex0402.cpp.i
+.PHONY : ex0402.i
+
+# target to preprocess a source file
+ex0402.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0402.dir/build.make CMakeFiles/ex0402.dir/ex0402.cpp.i
+.PHONY : ex0402.cpp.i
+
+ex0402.s: ex0402.cpp.s
+.PHONY : ex0402.s
+
+# target to generate assembly for a file
+ex0402.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0402.dir/build.make CMakeFiles/ex0402.dir/ex0402.cpp.s
+.PHONY : ex0402.cpp.s
+
+ex0501.o: ex0501.cpp.o
+.PHONY : ex0501.o
+
+# target to build an object file
+ex0501.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0501.dir/build.make CMakeFiles/ex0501.dir/ex0501.cpp.o
+.PHONY : ex0501.cpp.o
+
+ex0501.i: ex0501.cpp.i
+.PHONY : ex0501.i
+
+# target to preprocess a source file
+ex0501.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0501.dir/build.make CMakeFiles/ex0501.dir/ex0501.cpp.i
+.PHONY : ex0501.cpp.i
+
+ex0501.s: ex0501.cpp.s
+.PHONY : ex0501.s
+
+# target to generate assembly for a file
+ex0501.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0501.dir/build.make CMakeFiles/ex0501.dir/ex0501.cpp.s
+.PHONY : ex0501.cpp.s
+
+ex0502.o: ex0502.cpp.o
+.PHONY : ex0502.o
+
+# target to build an object file
+ex0502.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0502.dir/build.make CMakeFiles/ex0502.dir/ex0502.cpp.o
+.PHONY : ex0502.cpp.o
+
+ex0502.i: ex0502.cpp.i
+.PHONY : ex0502.i
+
+# target to preprocess a source file
+ex0502.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0502.dir/build.make CMakeFiles/ex0502.dir/ex0502.cpp.i
+.PHONY : ex0502.cpp.i
+
+ex0502.s: ex0502.cpp.s
+.PHONY : ex0502.s
+
+# target to generate assembly for a file
+ex0502.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0502.dir/build.make CMakeFiles/ex0502.dir/ex0502.cpp.s
+.PHONY : ex0502.cpp.s
+
+ex0601.o: ex0601.cpp.o
+.PHONY : ex0601.o
+
+# target to build an object file
+ex0601.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0601.dir/build.make CMakeFiles/ex0601.dir/ex0601.cpp.o
+.PHONY : ex0601.cpp.o
+
+ex0601.i: ex0601.cpp.i
+.PHONY : ex0601.i
+
+# target to preprocess a source file
+ex0601.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0601.dir/build.make CMakeFiles/ex0601.dir/ex0601.cpp.i
+.PHONY : ex0601.cpp.i
+
+ex0601.s: ex0601.cpp.s
+.PHONY : ex0601.s
+
+# target to generate assembly for a file
+ex0601.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0601.dir/build.make CMakeFiles/ex0601.dir/ex0601.cpp.s
+.PHONY : ex0601.cpp.s
+
+ex0602.o: ex0602.cpp.o
+.PHONY : ex0602.o
+
+# target to build an object file
+ex0602.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0602.dir/build.make CMakeFiles/ex0602.dir/ex0602.cpp.o
+.PHONY : ex0602.cpp.o
+
+ex0602.i: ex0602.cpp.i
+.PHONY : ex0602.i
+
+# target to preprocess a source file
+ex0602.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0602.dir/build.make CMakeFiles/ex0602.dir/ex0602.cpp.i
+.PHONY : ex0602.cpp.i
+
+ex0602.s: ex0602.cpp.s
+.PHONY : ex0602.s
+
+# target to generate assembly for a file
+ex0602.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0602.dir/build.make CMakeFiles/ex0602.dir/ex0602.cpp.s
+.PHONY : ex0602.cpp.s
+
+ex0603.o: ex0603.cpp.o
+.PHONY : ex0603.o
+
+# target to build an object file
+ex0603.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0603.dir/build.make CMakeFiles/ex0603.dir/ex0603.cpp.o
+.PHONY : ex0603.cpp.o
+
+ex0603.i: ex0603.cpp.i
+.PHONY : ex0603.i
+
+# target to preprocess a source file
+ex0603.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0603.dir/build.make CMakeFiles/ex0603.dir/ex0603.cpp.i
+.PHONY : ex0603.cpp.i
+
+ex0603.s: ex0603.cpp.s
+.PHONY : ex0603.s
+
+# target to generate assembly for a file
+ex0603.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex0603.dir/build.make CMakeFiles/ex0603.dir/ex0603.cpp.s
+.PHONY : ex0603.cpp.s
+
+ex1001.o: ex1001.cpp.o
+.PHONY : ex1001.o
+
+# target to build an object file
+ex1001.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1001.dir/build.make CMakeFiles/ex1001.dir/ex1001.cpp.o
+.PHONY : ex1001.cpp.o
+
+ex1001.i: ex1001.cpp.i
+.PHONY : ex1001.i
+
+# target to preprocess a source file
+ex1001.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1001.dir/build.make CMakeFiles/ex1001.dir/ex1001.cpp.i
+.PHONY : ex1001.cpp.i
+
+ex1001.s: ex1001.cpp.s
+.PHONY : ex1001.s
+
+# target to generate assembly for a file
+ex1001.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1001.dir/build.make CMakeFiles/ex1001.dir/ex1001.cpp.s
+.PHONY : ex1001.cpp.s
+
+ex1002.o: ex1002.cpp.o
+.PHONY : ex1002.o
+
+# target to build an object file
+ex1002.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1002.dir/build.make CMakeFiles/ex1002.dir/ex1002.cpp.o
+.PHONY : ex1002.cpp.o
+
+ex1002.i: ex1002.cpp.i
+.PHONY : ex1002.i
+
+# target to preprocess a source file
+ex1002.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1002.dir/build.make CMakeFiles/ex1002.dir/ex1002.cpp.i
+.PHONY : ex1002.cpp.i
+
+ex1002.s: ex1002.cpp.s
+.PHONY : ex1002.s
+
+# target to generate assembly for a file
+ex1002.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/ex1002.dir/build.make CMakeFiles/ex1002.dir/ex1002.cpp.s
+.PHONY : ex1002.cpp.s
+
 main.o: main.cpp.o
 .PHONY : main.o
 
@@ -264,6 +758,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+practice.o: practice.cpp.o
+.PHONY : practice.o
+
+# target to build an object file
+practice.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/practice.cpp.o
+.PHONY : practice.cpp.o
+
+practice.i: practice.cpp.i
+.PHONY : practice.i
+
+# target to preprocess a source file
+practice.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/practice.cpp.i
+.PHONY : practice.cpp.i
+
+practice.s: practice.cpp.s
+.PHONY : practice.s
+
+# target to generate assembly for a file
+practice.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/practice.dir/build.make CMakeFiles/practice.dir/practice.cpp.s
+.PHONY : practice.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -275,7 +793,21 @@ help:
 	@echo "... ex0101"
 	@echo "... ex0102"
 	@echo "... ex0201"
+	@echo "... ex0202"
+	@echo "... ex0203"
+	@echo "... ex0301"
+	@echo "... ex0302"
+	@echo "... ex0401"
+	@echo "... ex0402"
+	@echo "... ex0501"
+	@echo "... ex0502"
+	@echo "... ex0601"
+	@echo "... ex0602"
+	@echo "... ex0603"
+	@echo "... ex1001"
+	@echo "... ex1002"
 	@echo "... main"
+	@echo "... practice"
 	@echo "... ex0101.o"
 	@echo "... ex0101.i"
 	@echo "... ex0101.s"
@@ -285,9 +817,51 @@ help:
 	@echo "... ex0201.o"
 	@echo "... ex0201.i"
 	@echo "... ex0201.s"
+	@echo "... ex0202.o"
+	@echo "... ex0202.i"
+	@echo "... ex0202.s"
+	@echo "... ex0203.o"
+	@echo "... ex0203.i"
+	@echo "... ex0203.s"
+	@echo "... ex0301.o"
+	@echo "... ex0301.i"
+	@echo "... ex0301.s"
+	@echo "... ex0302.o"
+	@echo "... ex0302.i"
+	@echo "... ex0302.s"
+	@echo "... ex0401.o"
+	@echo "... ex0401.i"
+	@echo "... ex0401.s"
+	@echo "... ex0402.o"
+	@echo "... ex0402.i"
+	@echo "... ex0402.s"
+	@echo "... ex0501.o"
+	@echo "... ex0501.i"
+	@echo "... ex0501.s"
+	@echo "... ex0502.o"
+	@echo "... ex0502.i"
+	@echo "... ex0502.s"
+	@echo "... ex0601.o"
+	@echo "... ex0601.i"
+	@echo "... ex0601.s"
+	@echo "... ex0602.o"
+	@echo "... ex0602.i"
+	@echo "... ex0602.s"
+	@echo "... ex0603.o"
+	@echo "... ex0603.i"
+	@echo "... ex0603.s"
+	@echo "... ex1001.o"
+	@echo "... ex1001.i"
+	@echo "... ex1001.s"
+	@echo "... ex1002.o"
+	@echo "... ex1002.i"
+	@echo "... ex1002.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... practice.o"
+	@echo "... practice.i"
+	@echo "... practice.s"
 .PHONY : help
 
 

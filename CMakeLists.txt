@@ -21,6 +21,7 @@ add_executable(ex0502 src/ex0502.cpp)
 add_executable(ex0601 src/ex0601.cpp)
 add_executable(ex0602 src/ex0602.cpp)
 add_executable(ex0603 src/ex0603.cpp)
+add_executable(ex1001 src/ex1001.cpp)
+add_executable(ex1002 src/ex1002.cpp)
 
 add_executable(practice src/practice.cpp)
-
